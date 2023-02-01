@@ -1,3 +1,5 @@
 # Hello, world!
 
-I stady
+I study
+
+Git is greate
